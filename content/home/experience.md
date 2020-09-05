@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Candidate"
+  company = "UT Southwestern Medical Center"
+  company_url = "https://www.utsouthwestern.edu/labs/roberts/"
+  location = "Dallas, Texas"
+  date_start = "2018-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  My primary focus in the lab is developing novel high throughput song analysis systems. I also have experience with: 
+  * Designing and conducting behavioural experiments
+  * Mentoring highschool and undergraduate students
+  * Community outreach
+  * Lesion and virus injection survival surgeries
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergraduate Researcher"
+  company = "McGill University"
+  company_url = "https://sarahwoolleylab.wordpress.com/"
+  location = "Montreal, Canada"
+  date_start = "2017-01-01"
+  date_end = "2018-05-01"
+  description = """
+  I was an undergraduate research assistant in the [Woolley Lab](https://sarahwoolleylab.wordpress.com/), where I complete an honours project investigating song preferences in female bengalese finches.
+  """
 
 +++
