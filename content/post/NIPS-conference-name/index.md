@@ -3,7 +3,7 @@
 
 title: "NIPS AI Conference to Continue Laughing about Nipples at the Expense of Women in Tech"
 subtitle: ""
-summary: ""[Click here for the full article on Medium.](https://medium.com/@therese.koch1/nips-ai-conference-to-continue-laughing-about-nipples-at-the-expense-of-women-in-tech-8c0fa74b1ec4)"
+summary: "[Click here for the full article on Medium.](https://medium.com/@therese.koch1/nips-ai-conference-to-continue-laughing-about-nipples-at-the-expense-of-women-in-tech-8c0fa74b1ec4)"
 authors: ['admin']
 tags: []
 categories: []
