@@ -18,7 +18,7 @@ organizations:
   url: "https://www.utsouthwestern.edu/labs/roberts/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the Roberts Lab at UT Southwestern. I study neural circuits underlying song learning in zebra finches, and develop software tools for song analysis. 
+bio: I am a PhD candidate in the Roberts Lab at UT Southwestern. I study neural circuits and genes underlying song learning in zebra finches, and develop software tools for song analysis. 
 
 interests:
 - Vocal Learning
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Therese Koch is a neuroscience PhD candidate in the [Roberts Lab](https://www.utsouthwestern.edu/labs/roberts/) at UT Southwestern Medical Center in Dallas, Texas. She studies song learning in zebra finches in the hopes of uncovering novel genes and brain circuits  involved in vocal learning and complex sensorimotor learning, more broadly. Her current focus is on the development of high-throughput birdsong analysis strategies. Before starting her PhD, Therese got her BSc in Neuroscience at McGill University in Montreal, Canada. There, she completed an honours research project on the mating preferences of female songbirds in the [Woolley Lab](https://sarahwoolleylab.wordpress.com/). Outside of the lab Therese is passionate about science communication and sharing her love of neuroscience and birds with anyone willing to listen.
+Therese Koch is a neuroscience PhD candidate in the [Roberts Lab](https://www.utsouthwestern.edu/labs/roberts/) at UT Southwestern Medical Center in Dallas, Texas. She studies neural circuits and genes underlying song learning in zebra finches, and develops software tools for song analysis. Before starting her PhD, Therese got her BSc in Neuroscience at McGill University in Montreal, Canada. There, she completed an honours research project on the mating preferences of female songbirds in the [Woolley Lab](https://sarahwoolleylab.wordpress.com/). Outside of the lab Therese is passionate about science communication and sharing her love of neuroscience and birds with anyone willing to listen.
