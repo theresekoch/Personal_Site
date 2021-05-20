@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Peter O'Donnell Jr. Brain Institute"
+  organization_url = "https://www.utsouthwestern.edu/departments/odonnell/"
+  title = "Neural Scientist Training Program Fellow"
+  url = "https://www.utsouthwestern.edu/departments/odonnell/scholar-programs/neural-scientist.html"
+  certificate_url = ""
+  date_start = "2021-02-01"
+  date_end = ""
+  description = "I am a recipient of the O'Donnell Brain Institute's Neural Scientist Training Program (NSTP) Fellowship; a fellowship designed to support early career researchers working in translational neuroscience. In addition to mentorship and clinical opportunities, this competitive fellowship provides complete funding support for two years of work towards my PhD."
+
+
+[[item]]
   organization = "Neuromatch Academy"
   organization_url = "https://neuromatch.io/academy/"
   title = "Neuromatch Academy Interactive Track"
